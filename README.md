@@ -1,1 +1,1 @@
-I created some projects in python. 
+I created some projects. 
